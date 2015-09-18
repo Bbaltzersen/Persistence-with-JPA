@@ -41,3 +41,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/Persistence with JPA/nbproject/private/
+/nbproject/private/
+/build/
